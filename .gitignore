@@ -63,12 +63,12 @@ Desktop.ini
 ########################################
 
 # Models
-**/models/**
-!**/models/.gitkeep
+# **/models/**
+# !**/models/.gitkeep
 
 # Textures
-**/textures/**
-!**/textures/.gitkeep
+# **/textures/**
+# !**/textures/.gitkeep
 
 # Shaders (keep these!)
 # (do NOT ignore shaders)
